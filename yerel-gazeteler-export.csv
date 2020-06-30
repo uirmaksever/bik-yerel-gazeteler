@@ -1,0 +1,508 @@
+id,province,newspaper,newspaper_url
+0,ADANA,Adana 5 Ocak,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/adana-5-ocak/
+1,ADANA,Adana Güney Haber,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/adana-guney-haber/
+2,ADANA,Crt Haber,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/crt-haber/
+3,ADANA,Çukurova Barış,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/cukurova-baris/
+4,ADANA,Çukurova Metropol,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/cukurova-metropol/
+5,ADANA,Çukurova Press,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/cukurova-press/
+6,ADANA,Gazette,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/gazette/
+7,ADANA,Günaydın Adana,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/gunaydin-adana/
+8,ADANA,İlkhaber,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/ilkhaber/
+9,ADANA,Toros,https://www.bik.gov.tr/yerel-gazeteler/adana/tumu/toros/
+10,ADIYAMAN,Alternatif Bakış,https://www.bik.gov.tr/yerel-gazeteler/adiyaman/tumu/alternatif-bakis/
+11,ADIYAMAN,Besni Güncel,https://www.bik.gov.tr/yerel-gazeteler/adiyaman/tumu/besni-guncel/
+12,ADIYAMAN,Gerçek,https://www.bik.gov.tr/yerel-gazeteler/adiyaman/tumu/gercek/
+13,ADIYAMAN,Güne Bakış,https://www.bik.gov.tr/yerel-gazeteler/adiyaman/tumu/gune-bakis/
+14,ADIYAMAN,Işık,https://www.bik.gov.tr/yerel-gazeteler/adiyaman/tumu/isik/
+15,ADIYAMAN,Türk-ay,https://www.bik.gov.tr/yerel-gazeteler/adiyaman/tumu/turk-ay/
+16,ADIYAMAN,Yeniyol,https://www.bik.gov.tr/yerel-gazeteler/adiyaman/tumu/yeniyol/
+17,AFYONKARAHİSAR,Ana Haber,https://www.bik.gov.tr/yerel-gazeteler/afyonkarahisar/tumu/ana-haber/
+18,AFYONKARAHİSAR,Gazete 3,https://www.bik.gov.tr/yerel-gazeteler/afyonkarahisar/tumu/gazete-3/
+19,AFYONKARAHİSAR,Kocatepe,https://www.bik.gov.tr/yerel-gazeteler/afyonkarahisar/tumu/kocatepe/
+20,AĞRI,Ağrı Memleket,https://www.bik.gov.tr/yerel-gazeteler/agri/tumu/agri-memleket/
+21,AĞRI,Hakimiyet,https://www.bik.gov.tr/yerel-gazeteler/agri/tumu/hakimiyet/
+22,AĞRI,Halkın Sesi,https://www.bik.gov.tr/yerel-gazeteler/agri/tumu/halkin-sesi/
+23,AĞRI,Patnos Haber,https://www.bik.gov.tr/yerel-gazeteler/agri/tumu/patnos-haber/
+24,AKSARAY,68 Haber,https://www.bik.gov.tr/yerel-gazeteler/aksaray/tumu/68-haber/
+25,AKSARAY,Aksaray Egemen,https://www.bik.gov.tr/yerel-gazeteler/aksaray/tumu/aksaray-egemen/
+26,AKSARAY,Aksaray Güncel,https://www.bik.gov.tr/yerel-gazeteler/aksaray/tumu/aksaray-guncel/
+27,AKSARAY,Eskil,https://www.bik.gov.tr/yerel-gazeteler/aksaray/tumu/eskil/
+28,AKSARAY,Yeni Aksaray,https://www.bik.gov.tr/yerel-gazeteler/aksaray/tumu/yeni-aksaray/
+29,AKSARAY,Yenigün,https://www.bik.gov.tr/yerel-gazeteler/aksaray/tumu/yenigun/
+30,AMASYA,Günebakış,https://www.bik.gov.tr/yerel-gazeteler/amasya/tumu/gunebakis/
+31,AMASYA,Halk İçin Bilgi,https://www.bik.gov.tr/yerel-gazeteler/amasya/tumu/halk-icin-bilgi/
+32,AMASYA,Hedef Amasya,https://www.bik.gov.tr/yerel-gazeteler/amasya/tumu/hedef-amasya/
+33,AMASYA,Objektif,https://www.bik.gov.tr/yerel-gazeteler/amasya/tumu/objektif/
+34,AMASYA,Olay,https://www.bik.gov.tr/yerel-gazeteler/amasya/tumu/olay/
+35,AMASYA,Pusula,https://www.bik.gov.tr/yerel-gazeteler/amasya/tumu/pusula/
+36,AMASYA,Yeni Emel,https://www.bik.gov.tr/yerel-gazeteler/amasya/tumu/yeni-emel/
+37,AMASYA,Yeşilırmak,https://www.bik.gov.tr/yerel-gazeteler/amasya/tumu/yesilirmak/
+38,ANKARA,Başkent,https://www.bik.gov.tr/yerel-gazeteler/ankara/tumu/baskent/
+39,ANKARA,Duatepe,https://www.bik.gov.tr/yerel-gazeteler/ankara/tumu/duatepe/
+40,ANKARA,Gazete Ayrıntı,https://www.bik.gov.tr/yerel-gazeteler/ankara/tumu/gazete-ayrinti/
+41,ANKARA,İstiklal,https://www.bik.gov.tr/yerel-gazeteler/ankara/tumu/istiklal/
+42,ANKARA,Polatlı Postası,https://www.bik.gov.tr/yerel-gazeteler/ankara/tumu/polatli-postasi/
+43,ANKARA,Şereflikoçhisar Çengel,https://www.bik.gov.tr/yerel-gazeteler/ankara/tumu/sereflikochisar-cengel/
+44,ANKARA,Ticari Hayat,https://www.bik.gov.tr/yerel-gazeteler/ankara/tumu/ticari-hayat/
+45,ANKARA,Tuzgölü Haber,https://www.bik.gov.tr/yerel-gazeteler/ankara/tumu/tuzgolu-haber/
+46,ANTALYA,Akdeniz'de Yeni Yüzyıl,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/akdeniz-de-yeni-yuzyil/
+47,ANTALYA,Alanya Postası,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/alanya-postasi/
+48,ANTALYA,Antalya A Gazetesi,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/antalya-a-gazetesi/
+49,ANTALYA,Antalya Ekspres,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/antalya-ekspres/
+50,ANTALYA,Batı Antalya,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/bati-antalya/
+51,ANTALYA,Finike Akdeniz,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/finike-akdeniz/
+52,ANTALYA,Gazipaşa Manşet,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/gazipasa-manset/
+53,ANTALYA,Gazipaşa Sahil,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/gazipasa-sahil/
+54,ANTALYA,Gerçek Alanya,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/gercek-alanya/
+55,ANTALYA,Kemer Gözcü,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/kemer-gozcu/
+56,ANTALYA,Korkuteli Gündem,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/korkuteli-gundem/
+57,ANTALYA,Manavgat'ın Sesi,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/manavgat-in-sesi/
+58,ANTALYA,Yeni Alanya,https://www.bik.gov.tr/yerel-gazeteler/antalya/tumu/yeni-alanya/
+59,ARDAHAN,23 Şubat,https://www.bik.gov.tr/yerel-gazeteler/ardahan/tumu/23-subat/
+60,ARDAHAN,Göle Haber,https://www.bik.gov.tr/yerel-gazeteler/ardahan/tumu/gole-haber/
+61,ARDAHAN,Hudut,https://www.bik.gov.tr/yerel-gazeteler/ardahan/tumu/hudut/
+62,ARTVİN,7 Mart,https://www.bik.gov.tr/yerel-gazeteler/artvin/tumu/7-mart/
+63,ARTVİN,Arhavi Postası,https://www.bik.gov.tr/yerel-gazeteler/artvin/tumu/arhavi-postasi/
+64,ARTVİN,Artvin Ardanuç,https://www.bik.gov.tr/yerel-gazeteler/artvin/tumu/artvin-ardanuc/
+65,ARTVİN,Artvin'in Sesi,https://www.bik.gov.tr/yerel-gazeteler/artvin/tumu/artvin-in-sesi/
+66,ARTVİN,Demokrat Çoruh,https://www.bik.gov.tr/yerel-gazeteler/artvin/tumu/demokrat-coruh/
+67,ARTVİN,Dost Artvin,https://www.bik.gov.tr/yerel-gazeteler/artvin/tumu/dost-artvin/
+68,ARTVİN,Kafkas Sarp Haber,https://www.bik.gov.tr/yerel-gazeteler/artvin/tumu/kafkas-sarp-haber/
+69,ARTVİN,Serhad Artvin,https://www.bik.gov.tr/yerel-gazeteler/artvin/tumu/serhad-artvin/
+70,AYDIN,Denge,https://www.bik.gov.tr/yerel-gazeteler/aydin/tumu/denge/
+71,AYDIN,Hedef,https://www.bik.gov.tr/yerel-gazeteler/aydin/tumu/hedef/
+72,AYDIN,Manşet Aydın,https://www.bik.gov.tr/yerel-gazeteler/aydin/tumu/manset-aydin/
+73,AYDIN,Ses,https://www.bik.gov.tr/yerel-gazeteler/aydin/tumu/ses/
+74,AYDIN,Yeni Kıroba,https://www.bik.gov.tr/yerel-gazeteler/aydin/tumu/yeni-kiroba/
+75,BALIKESİR,Balıkesir Birlik,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/balikesir-birlik/
+76,BALIKESİR,Balıkesir Ekspres,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/balikesir-ekspres/
+77,BALIKESİR,Balıkesir Politika,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/balikesir-politika/
+78,BALIKESİR,Banses,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/banses/
+79,BALIKESİR,Büyükşehir Merhaba,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/buyuksehir-merhaba/
+80,BALIKESİR,Demokrat,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/demokrat/
+81,BALIKESİR,Ege Gündem,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/ege-gundem/
+82,BALIKESİR,Erdek Doğuş,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/erdek-dogus/
+83,BALIKESİR,Genç Bayrak,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/genc-bayrak/
+84,BALIKESİR,Gönen Postası,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/gonen-postasi/
+85,BALIKESİR,Haberci,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/haberci/
+86,BALIKESİR,Körfez Demokrat,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/korfez-demokrat/
+87,BALIKESİR,Körfez Star,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/korfez-star/
+88,BALIKESİR,Marmara Bölge,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/marmara-bolge/
+89,BALIKESİR,Sözcü,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/sozcu/
+90,BALIKESİR,Yaşam,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/yasam/
+91,BALIKESİR,Yeni Erdek,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/yeni-erdek/
+92,BALIKESİR,Yeni Gazetem,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/yeni-gazetem/
+93,BALIKESİR,Yenisöz,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/yenisoz/
+94,BALIKESİR,Zeytin Efe,https://www.bik.gov.tr/yerel-gazeteler/balikesir/tumu/zeytin-efe/
+95,BARTIN,Bartın Halk,https://www.bik.gov.tr/yerel-gazeteler/bartin/tumu/bartin-halk/
+96,BARTIN,Bartın Hergün,https://www.bik.gov.tr/yerel-gazeteler/bartin/tumu/bartin-hergun/
+97,BARTIN,Bartın Pusula,https://www.bik.gov.tr/yerel-gazeteler/bartin/tumu/bartin-pusula/
+98,BATMAN,Batman,https://www.bik.gov.tr/yerel-gazeteler/batman/tumu/batman/
+99,BATMAN,Batman Çağdaş,https://www.bik.gov.tr/yerel-gazeteler/batman/tumu/batman-cagdas/
+100,BATMAN,Batman Pusula,https://www.bik.gov.tr/yerel-gazeteler/batman/tumu/batman-pusula/
+101,BATMAN,Batman Rehber,https://www.bik.gov.tr/yerel-gazeteler/batman/tumu/batman-rehber/
+102,BATMAN,Batman Sonsöz,https://www.bik.gov.tr/yerel-gazeteler/batman/tumu/batman-sonsoz/
+103,BAYBURT,Bayburt Havadis,https://www.bik.gov.tr/yerel-gazeteler/bayburt/tumu/bayburt-havadis/
+104,BAYBURT,Bayburt Sıla,https://www.bik.gov.tr/yerel-gazeteler/bayburt/tumu/bayburt-sila/
+105,BAYBURT,Çoruh Haber,https://www.bik.gov.tr/yerel-gazeteler/bayburt/tumu/coruh-haber/
+106,BİLECİK,Değişim,https://www.bik.gov.tr/yerel-gazeteler/bilecik/tumu/degisim/
+107,BİLECİK,Gündem 11,https://www.bik.gov.tr/yerel-gazeteler/bilecik/tumu/gundem-11/
+108,BİLECİK,Sakarya,https://www.bik.gov.tr/yerel-gazeteler/bilecik/tumu/sakarya/
+109,BİLECİK,Yarın,https://www.bik.gov.tr/yerel-gazeteler/bilecik/tumu/yarin/
+110,BİLECİK,Yeni Bozüyük,https://www.bik.gov.tr/yerel-gazeteler/bilecik/tumu/yeni-bozuyuk/
+111,BİNGÖL,Ajans 12,https://www.bik.gov.tr/yerel-gazeteler/bingol/tumu/ajans-12/
+112,BİNGÖL,Bingöl,https://www.bik.gov.tr/yerel-gazeteler/bingol/tumu/bingol/
+113,BİNGÖL,Bingöl Olay,https://www.bik.gov.tr/yerel-gazeteler/bingol/tumu/bingol-olay/
+114,BİNGÖL,Bingöl Online,https://www.bik.gov.tr/yerel-gazeteler/bingol/tumu/bingol-online/
+115,BİNGÖL,Bingöl Sürmanşet,https://www.bik.gov.tr/yerel-gazeteler/bingol/tumu/bingol-surmanset/
+116,BİNGÖL,Bingöl'ün Sesi,https://www.bik.gov.tr/yerel-gazeteler/bingol/tumu/bingol-un-sesi/
+117,BİNGÖL,Çapakçur,https://www.bik.gov.tr/yerel-gazeteler/bingol/tumu/capakcur/
+118,BİTLİS,Ahlat Selçuklu,https://www.bik.gov.tr/yerel-gazeteler/bitlis/tumu/ahlat-selcuklu/
+119,BİTLİS,Beşminare,https://www.bik.gov.tr/yerel-gazeteler/bitlis/tumu/besminare/
+120,BİTLİS,Dideban,https://www.bik.gov.tr/yerel-gazeteler/bitlis/tumu/dideban/
+121,BİTLİS,Doğru Haber,https://www.bik.gov.tr/yerel-gazeteler/bitlis/tumu/dogru-haber/
+122,BİTLİS,Mutki Haber,https://www.bik.gov.tr/yerel-gazeteler/bitlis/tumu/mutki-haber/
+123,BİTLİS,Şark,https://www.bik.gov.tr/yerel-gazeteler/bitlis/tumu/sark/
+124,BİTLİS,Tatvan Sesi,https://www.bik.gov.tr/yerel-gazeteler/bitlis/tumu/tatvan-sesi/
+125,BİTLİS,Yeni Bitlis,https://www.bik.gov.tr/yerel-gazeteler/bitlis/tumu/yeni-bitlis/
+126,BOLU,Bolu Takip,https://www.bik.gov.tr/yerel-gazeteler/bolu/tumu/bolu-takip/
+127,BOLU,Olay Gündem,https://www.bik.gov.tr/yerel-gazeteler/bolu/tumu/olay-gundem/
+128,BURDUR,Burdur,https://www.bik.gov.tr/yerel-gazeteler/burdur/tumu/burdur/
+129,BURDUR,Çağdaş Burdur,https://www.bik.gov.tr/yerel-gazeteler/burdur/tumu/cagdas-burdur/
+130,BURDUR,Hedef,https://www.bik.gov.tr/yerel-gazeteler/burdur/tumu/hedef/
+131,BURDUR,Oğuzeli,https://www.bik.gov.tr/yerel-gazeteler/burdur/tumu/oguzeli/
+132,BURDUR,Ses 15,https://www.bik.gov.tr/yerel-gazeteler/burdur/tumu/ses-15/
+133,BURDUR,Yenigün,https://www.bik.gov.tr/yerel-gazeteler/burdur/tumu/yenigun/
+134,BURSA,A Gazete,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/a-gazete/
+135,BURSA,Bursa Haber,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/bursa-haber/
+136,BURSA,Bursa Hakimiyet,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/bursa-hakimiyet/
+137,BURSA,Bursa Hayat,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/bursa-hayat/
+138,BURSA,Bursa Sancak,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/bursa-sancak/
+139,BURSA,Bursa Şehir,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/bursa-sehir/
+140,BURSA,Bursa'da Meydan,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/bursa-da-meydan/
+141,BURSA,Gazete Bursa,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/gazete-bursa/
+142,BURSA,Genç Gazete,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/genc-gazete/
+143,BURSA,İnegöl Yıldırım,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/inegol-yildirim/
+144,BURSA,Karacabey Haber,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/karacabey-haber/
+145,BURSA,Kent,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/kent/
+146,BURSA,Okur,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/okur/
+147,BURSA,Olay,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/olay/
+148,BURSA,Yeni Dönem,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/yeni-donem/
+149,BURSA,Yeni Marmara,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/yeni-marmara/
+150,BURSA,Yeni Tuna,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/yeni-tuna/
+151,BURSA,Yenişehir Yörem,https://www.bik.gov.tr/yerel-gazeteler/bursa/tumu/yenisehir-yorem/
+152,ÇANAKKALE,Boğaz,https://www.bik.gov.tr/yerel-gazeteler/canakkale/tumu/bogaz/
+153,ÇANAKKALE,Boğaz Vitamin,https://www.bik.gov.tr/yerel-gazeteler/canakkale/tumu/bogaz-vitamin/
+154,ÇANAKKALE,Burası Çanakkale,https://www.bik.gov.tr/yerel-gazeteler/canakkale/tumu/burasi-canakkale/
+155,ÇANAKKALE,Çanakkale Gündem,https://www.bik.gov.tr/yerel-gazeteler/canakkale/tumu/canakkale-gundem/
+156,ÇANAKKALE,Çanakkale Olay,https://www.bik.gov.tr/yerel-gazeteler/canakkale/tumu/canakkale-olay/
+157,ÇANAKKALE,İşte Çanakkale,https://www.bik.gov.tr/yerel-gazeteler/canakkale/tumu/iste-canakkale/
+158,ÇANAKKALE,Kalem,https://www.bik.gov.tr/yerel-gazeteler/canakkale/tumu/kalem/
+159,ÇANAKKALE,Kalenin Sesi,https://www.bik.gov.tr/yerel-gazeteler/canakkale/tumu/kalenin-sesi/
+160,ÇANKIRI,Bizim Çankırı,https://www.bik.gov.tr/yerel-gazeteler/cankiri/tumu/bizim-cankiri/
+161,ÇANKIRI,Çankırı'da Yeni Gün,https://www.bik.gov.tr/yerel-gazeteler/cankiri/tumu/cankiri-da-yeni-gun/
+162,ÇANKIRI,Doğruyol,https://www.bik.gov.tr/yerel-gazeteler/cankiri/tumu/dogruyol/
+163,ÇANKIRI,Karatekin,https://www.bik.gov.tr/yerel-gazeteler/cankiri/tumu/karatekin/
+164,ÇORUM,Çorum Haber,https://www.bik.gov.tr/yerel-gazeteler/corum/tumu/corum-haber/
+165,ÇORUM,Çorum Hakimiyet,https://www.bik.gov.tr/yerel-gazeteler/corum/tumu/corum-hakimiyet/
+166,ÇORUM,Kesin Karar,https://www.bik.gov.tr/yerel-gazeteler/corum/tumu/kesin-karar/
+167,DENİZLİ,Deha 20,https://www.bik.gov.tr/yerel-gazeteler/denizli/tumu/deha-20/
+168,DENİZLİ,Horoz,https://www.bik.gov.tr/yerel-gazeteler/denizli/tumu/horoz/
+169,DENİZLİ,Yeni Olay,https://www.bik.gov.tr/yerel-gazeteler/denizli/tumu/yeni-olay/
+170,DİYARBAKIR,Bismil Haber,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/bismil-haber/
+171,DİYARBAKIR,Diyarbakır Olay,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/diyarbakir-olay/
+172,DİYARBAKIR,Diyarbakır Özgür Haber,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/diyarbakir-ozgur-haber/
+173,DİYARBAKIR,Diyarbakır Söz,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/diyarbakir-soz/
+174,DİYARBAKIR,Diyarbakır Yenigün,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/diyarbakir-yenigun/
+175,DİYARBAKIR,Ge Güneydoğu Ekspres,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/ge-guneydogu-ekspres/
+176,DİYARBAKIR,Mücadele,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/mucadele/
+177,DİYARBAKIR,Öz Diyarbakır,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/oz-diyarbakir/
+178,DİYARBAKIR,Tigris Haber,https://www.bik.gov.tr/yerel-gazeteler/diyarbakir/tumu/tigris-haber/
+179,DÜZCE,Düzce Damla,https://www.bik.gov.tr/yerel-gazeteler/duzce/tumu/duzce-damla/
+180,DÜZCE,Düzce Parantez,https://www.bik.gov.tr/yerel-gazeteler/duzce/tumu/duzce-parantez/
+181,DÜZCE,Düzce Postası,https://www.bik.gov.tr/yerel-gazeteler/duzce/tumu/duzce-postasi/
+182,DÜZCE,Düzcenin Sesi,https://www.bik.gov.tr/yerel-gazeteler/duzce/tumu/duzcenin-sesi/
+183,DÜZCE,Günaydın Düzce,https://www.bik.gov.tr/yerel-gazeteler/duzce/tumu/gunaydin-duzce/
+184,EDİRNE,Edirne Haber,https://www.bik.gov.tr/yerel-gazeteler/edirne/tumu/edirne-haber/
+185,EDİRNE,Edirne'nin Sesi,https://www.bik.gov.tr/yerel-gazeteler/edirne/tumu/edirne-nin-sesi/
+186,ELAZIĞ,Elazığ Hakimiyet,https://www.bik.gov.tr/yerel-gazeteler/elazig/tumu/elazig-hakimiyet/
+187,ELAZIĞ,Fırat,https://www.bik.gov.tr/yerel-gazeteler/elazig/tumu/firat/
+188,ELAZIĞ,Günışığı,https://www.bik.gov.tr/yerel-gazeteler/elazig/tumu/gunisigi/
+189,ELAZIĞ,Haberkent,https://www.bik.gov.tr/yerel-gazeteler/elazig/tumu/haberkent/
+190,ERZİNCAN,Kazankaya,https://www.bik.gov.tr/yerel-gazeteler/erzincan/tumu/kazankaya/
+191,ERZİNCAN,Özsöz,https://www.bik.gov.tr/yerel-gazeteler/erzincan/tumu/ozsoz/
+192,ERZURUM,Günebakış,https://www.bik.gov.tr/yerel-gazeteler/erzurum/tumu/gunebakis/
+193,ERZURUM,Milletin Sesi,https://www.bik.gov.tr/yerel-gazeteler/erzurum/tumu/milletin-sesi/
+194,ERZURUM,Pusula,https://www.bik.gov.tr/yerel-gazeteler/erzurum/tumu/pusula/
+195,ERZURUM,Yenigün,https://www.bik.gov.tr/yerel-gazeteler/erzurum/tumu/yenigun/
+196,ESKİŞEHİR,Eskişehir 2 Eylül,https://www.bik.gov.tr/yerel-gazeteler/eskisehir/tumu/eskisehir-2-eylul/
+197,ESKİŞEHİR,Eskişehir Anadolu,https://www.bik.gov.tr/yerel-gazeteler/eskisehir/tumu/eskisehir-anadolu/
+198,ESKİŞEHİR,Eskişehir Yenigün,https://www.bik.gov.tr/yerel-gazeteler/eskisehir/tumu/eskisehir-yenigun/
+199,ESKİŞEHİR,İstikbal,https://www.bik.gov.tr/yerel-gazeteler/eskisehir/tumu/istikbal/
+200,ESKİŞEHİR,Milli İrade,https://www.bik.gov.tr/yerel-gazeteler/eskisehir/tumu/milli-irade/
+201,ESKİŞEHİR,Sakarya,https://www.bik.gov.tr/yerel-gazeteler/eskisehir/tumu/sakarya/
+202,ESKİŞEHİR,Sonhaber,https://www.bik.gov.tr/yerel-gazeteler/eskisehir/tumu/sonhaber/
+203,ESKİŞEHİR,Şehir Gazetesi,https://www.bik.gov.tr/yerel-gazeteler/eskisehir/tumu/sehir-gazetesi/
+204,GAZİANTEP,Gaziantep Hakimiyet,https://www.bik.gov.tr/yerel-gazeteler/gaziantep/tumu/gaziantep-hakimiyet/
+205,GAZİANTEP,Güneydoğu Denge,https://www.bik.gov.tr/yerel-gazeteler/gaziantep/tumu/guneydogu-denge/
+206,GİRESUN,Bizim Piraziz,https://www.bik.gov.tr/yerel-gazeteler/giresun/tumu/bizim-piraziz/
+207,GİRESUN,Derelinin Sesi,https://www.bik.gov.tr/yerel-gazeteler/giresun/tumu/derelinin-sesi/
+208,GİRESUN,Gazete Savaş,https://www.bik.gov.tr/yerel-gazeteler/giresun/tumu/gazete-savas/
+209,GİRESUN,Giresun Gündem,https://www.bik.gov.tr/yerel-gazeteler/giresun/tumu/giresun-gundem/
+210,GİRESUN,Yeni Giresun,https://www.bik.gov.tr/yerel-gazeteler/giresun/tumu/yeni-giresun/
+211,GİRESUN,Yıldız Haber,https://www.bik.gov.tr/yerel-gazeteler/giresun/tumu/yildiz-haber/
+212,GÜMÜŞHANE,Gümüşhane Olay,https://www.bik.gov.tr/yerel-gazeteler/gumushane/tumu/gumushane-olay/
+213,GÜMÜŞHANE,Gümüşkent,https://www.bik.gov.tr/yerel-gazeteler/gumushane/tumu/gumuskent/
+214,GÜMÜŞHANE,Gümüşkoza,https://www.bik.gov.tr/yerel-gazeteler/gumushane/tumu/gumuskoza/
+215,GÜMÜŞHANE,Kuşakkaya,https://www.bik.gov.tr/yerel-gazeteler/gumushane/tumu/kusakkaya/
+216,GÜMÜŞHANE,Şiran Gündem,https://www.bik.gov.tr/yerel-gazeteler/gumushane/tumu/siran-gundem/
+217,HAKKARİ,Halkın Sesi,https://www.bik.gov.tr/yerel-gazeteler/hakkari/tumu/halkin-sesi/
+218,HAKKARİ,İl Sesi,https://www.bik.gov.tr/yerel-gazeteler/hakkari/tumu/il-sesi/
+219,HAKKARİ,Yüksekova Halkın Sesi,https://www.bik.gov.tr/yerel-gazeteler/hakkari/tumu/yuksekova-halkin-sesi/
+220,HATAY,Altınözü Haber,https://www.bik.gov.tr/yerel-gazeteler/hatay/tumu/altinozu-haber/
+221,HATAY,Görüntü,https://www.bik.gov.tr/yerel-gazeteler/hatay/tumu/goruntu/
+222,HATAY,Güncel Olay,https://www.bik.gov.tr/yerel-gazeteler/hatay/tumu/guncel-olay/
+223,HATAY,Hatay Zafer,https://www.bik.gov.tr/yerel-gazeteler/hatay/tumu/hatay-zafer/
+224,HATAY,İlk Kurşun,https://www.bik.gov.tr/yerel-gazeteler/hatay/tumu/ilk-kursun/
+225,HATAY,Özyurt,https://www.bik.gov.tr/yerel-gazeteler/hatay/tumu/ozyurt/
+226,HATAY,Yeni Gün,https://www.bik.gov.tr/yerel-gazeteler/hatay/tumu/yeni-gun/
+227,IĞDIR,15 Temmuz,https://www.bik.gov.tr/yerel-gazeteler/igdir/tumu/15-temmuz/
+228,IĞDIR,Aras,https://www.bik.gov.tr/yerel-gazeteler/igdir/tumu/aras/
+229,IĞDIR,Aydın,https://www.bik.gov.tr/yerel-gazeteler/igdir/tumu/aydin/
+230,IĞDIR,Güven,https://www.bik.gov.tr/yerel-gazeteler/igdir/tumu/guven/
+231,IĞDIR,Hudut,https://www.bik.gov.tr/yerel-gazeteler/igdir/tumu/hudut/
+232,IĞDIR,Iğdır,https://www.bik.gov.tr/yerel-gazeteler/igdir/tumu/igdir/
+233,IĞDIR,Iğdır Yaşar,https://www.bik.gov.tr/yerel-gazeteler/igdir/tumu/igdir-yasar/
+234,IĞDIR,Yeşil Iğdır,https://www.bik.gov.tr/yerel-gazeteler/igdir/tumu/yesil-igdir/
+235,ISPARTA,Çözüm,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/cozum/
+236,ISPARTA,Gülkent,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/gulkent/
+237,ISPARTA,Haber,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/haber/
+238,ISPARTA,Isparta,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/isparta/
+239,ISPARTA,Isparta Ekspres,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/isparta-ekspres/
+240,ISPARTA,Keçiborlu Postası,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/keciborlu-postasi/
+241,ISPARTA,Manşet,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/manset/
+242,ISPARTA,Nokta,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/nokta/
+243,ISPARTA,Oluşum,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/olusum/
+244,ISPARTA,Şarkikaraağaç Ekspres,https://www.bik.gov.tr/yerel-gazeteler/isparta/tumu/sarkikaraagac-ekspres/
+245,İSTANBUL,Ayrıntılı Haber,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/ayrintili-haber/
+246,İSTANBUL,Bizim Anadolu,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/bizim-anadolu/
+247,İSTANBUL,Dokuz Sütun,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/dokuz-sutun/
+248,İSTANBUL,Gazete Damga,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/gazete-damga/
+249,İSTANBUL,Günboyu,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/gunboyu/
+250,İSTANBUL,Hürhaber,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/hurhaber/
+251,İSTANBUL,Hürses,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/hurses/
+252,İSTANBUL,İstanbul,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/istanbul/
+253,İSTANBUL,İstiklal,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/istiklal/
+254,İSTANBUL,İttifak,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/ittifak/
+255,İSTANBUL,Önce Vatan,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/once-vatan/
+256,İSTANBUL,Son An,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/son-an/
+257,İSTANBUL,Son Saat,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/son-saat/
+258,İSTANBUL,Tünaydın,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/tunaydin/
+259,İSTANBUL,Yeni Çağrı,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/yeni-cagri/
+260,İSTANBUL,Yeni Devir,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/yeni-devir/
+261,İSTANBUL,Yeni Söz,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/yeni-soz/
+262,İSTANBUL,Yenigün,https://www.bik.gov.tr/yerel-gazeteler/istanbul/tumu/yenigun/
+263,İZMİR,9 Eylül,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/9-eylul/
+264,İZMİR,Aliağa Ekspres,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/aliaga-ekspres/
+265,İZMİR,Büyük Torbalı,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/buyuk-torbali/
+266,İZMİR,Ege Telgraf,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/ege-telgraf/
+267,İZMİR,Haber Ekspres,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/haber-ekspres/
+268,İZMİR,İlkses,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/ilkses/
+269,İZMİR,Küçük Menderes,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/kucuk-menderes/
+270,İZMİR,Ödemiş Kent,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/odemis-kent/
+271,İZMİR,Ticaret,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/ticaret/
+272,İZMİR,Yeni Bakış,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/yeni-bakis/
+273,İZMİR,Yenigün,https://www.bik.gov.tr/yerel-gazeteler/izmir/tumu/yenigun/
+274,KAHRAMANMARAŞ,Elbistan Kaynarca,https://www.bik.gov.tr/yerel-gazeteler/kahramanmaras/tumu/elbistan-kaynarca/
+275,KAHRAMANMARAŞ,Kahramanmaraş'ta Bugün,https://www.bik.gov.tr/yerel-gazeteler/kahramanmaras/tumu/kahramanmaras-ta-bugun/
+276,KARABÜK,Batı Karadeniz Ekspres,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/bati-karadeniz-ekspres/
+277,KARABÜK,Bölgenin Sesi,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/bolgenin-sesi/
+278,KARABÜK,Karabük Farklı Gazete,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/karabuk-farkli-gazete/
+279,KARABÜK,Karabük Haber,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/karabuk-haber/
+280,KARABÜK,Karabük Meydan,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/karabuk-meydan/
+281,KARABÜK,Karabük Postası,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/karabuk-postasi/
+282,KARABÜK,Karabük'ün Sesi,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/karabuk-un-sesi/
+283,KARABÜK,Safranbolu Ekspres,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/safranbolu-ekspres/
+284,KARABÜK,Safranbolu Son Haber,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/safranbolu-son-haber/
+285,KARABÜK,Safranbolu'da Sonsöz,https://www.bik.gov.tr/yerel-gazeteler/karabuk/tumu/safranbolu-da-sonsoz/
+286,KARAMAN,Gazete Anadolu,https://www.bik.gov.tr/yerel-gazeteler/karaman/tumu/gazete-anadolu/
+287,KARAMAN,Kgrt Karaman,https://www.bik.gov.tr/yerel-gazeteler/karaman/tumu/kgrt-karaman/
+288,KARAMAN,Yeni Karaman,https://www.bik.gov.tr/yerel-gazeteler/karaman/tumu/yeni-karaman/
+289,KARS,Kars Hakimiyet,https://www.bik.gov.tr/yerel-gazeteler/kars/tumu/kars-hakimiyet/
+290,KARS,Kars Havadis,https://www.bik.gov.tr/yerel-gazeteler/kars/tumu/kars-havadis/
+291,KASTAMONU,Gündem37,https://www.bik.gov.tr/yerel-gazeteler/kastamonu/tumu/gundem37/
+292,KASTAMONU,Kastamonu,https://www.bik.gov.tr/yerel-gazeteler/kastamonu/tumu/kastamonu/
+293,KASTAMONU,Kastamonu Açıksöz,https://www.bik.gov.tr/yerel-gazeteler/kastamonu/tumu/kastamonu-aciksoz/
+294,KASTAMONU,Kastamonu Doğrusöz,https://www.bik.gov.tr/yerel-gazeteler/kastamonu/tumu/kastamonu-dogrusoz/
+295,KASTAMONU,Kastamonu Nasrullah,https://www.bik.gov.tr/yerel-gazeteler/kastamonu/tumu/kastamonu-nasrullah/
+296,KASTAMONU,Kastamonu Sözcü,https://www.bik.gov.tr/yerel-gazeteler/kastamonu/tumu/kastamonu-sozcu/
+297,KAYSERİ,E-haber Kayseri,https://www.bik.gov.tr/yerel-gazeteler/kayseri/tumu/e-haber-kayseri/
+298,KAYSERİ,Kayseri Haber 38,https://www.bik.gov.tr/yerel-gazeteler/kayseri/tumu/kayseri-haber-38/
+299,KIRIKKALE,İl,https://www.bik.gov.tr/yerel-gazeteler/kirikkale/tumu/il/
+300,KIRIKKALE,Manşet,https://www.bik.gov.tr/yerel-gazeteler/kirikkale/tumu/manset/
+301,KIRKLARELİ,Babaeski Gündem,https://www.bik.gov.tr/yerel-gazeteler/kirklareli/tumu/babaeski-gundem/
+302,KIRKLARELİ,Görünüm,https://www.bik.gov.tr/yerel-gazeteler/kirklareli/tumu/gorunum/
+303,KIRKLARELİ,Hürfikir,https://www.bik.gov.tr/yerel-gazeteler/kirklareli/tumu/hurfikir/
+304,KIRKLARELİ,Kırklar Haber,https://www.bik.gov.tr/yerel-gazeteler/kirklareli/tumu/kirklar-haber/
+305,KIRKLARELİ,Trakya'da Yeşilyurt,https://www.bik.gov.tr/yerel-gazeteler/kirklareli/tumu/trakya-da-yesilyurt/
+306,KIRŞEHİR,40 Arena,https://www.bik.gov.tr/yerel-gazeteler/kirsehir/tumu/40-arena/
+307,KIRŞEHİR,Kırşehir Çiğdem,https://www.bik.gov.tr/yerel-gazeteler/kirsehir/tumu/kirsehir-cigdem/
+308,KIRŞEHİR,Kırşehir Memleket,https://www.bik.gov.tr/yerel-gazeteler/kirsehir/tumu/kirsehir-memleket/
+309,KIRŞEHİR,Mucur,https://www.bik.gov.tr/yerel-gazeteler/kirsehir/tumu/mucur/
+310,KIRŞEHİR,Mucur Dağdelen,https://www.bik.gov.tr/yerel-gazeteler/kirsehir/tumu/mucur-dagdelen/
+311,KIRŞEHİR,Yeni Aşıkpaşa,https://www.bik.gov.tr/yerel-gazeteler/kirsehir/tumu/yeni-asikpasa/
+312,KIRŞEHİR,Yeni Kırşehir Yeşilyurt,https://www.bik.gov.tr/yerel-gazeteler/kirsehir/tumu/yeni-kirsehir-yesilyurt/
+313,KIRŞEHİR,Yeni Yeşil Mucur,https://www.bik.gov.tr/yerel-gazeteler/kirsehir/tumu/yeni-yesil-mucur/
+314,KİLİS,Serhat Kilis,https://www.bik.gov.tr/yerel-gazeteler/kilis/tumu/serhat-kilis/
+315,KİLİS,Vizyon Havadis,https://www.bik.gov.tr/yerel-gazeteler/kilis/tumu/vizyon-havadis/
+316,KOCAELİ,Bizim Yaka Kocaeli,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/bizim-yaka-kocaeli/
+317,KOCAELİ,Çağdaş Kocaeli,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/cagdas-kocaeli/
+318,KOCAELİ,Derince Ekspres,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/derince-ekspres/
+319,KOCAELİ,Gazete Gebze,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/gazete-gebze/
+320,KOCAELİ,Kocaeli,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/kocaeli/
+321,KOCAELİ,Kocaeli Demokrat,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/kocaeli-demokrat/
+322,KOCAELİ,Mavi Kocaeli,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/mavi-kocaeli/
+323,KOCAELİ,Özgür Kocaeli,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/ozgur-kocaeli/
+324,KOCAELİ,Yeni Haber,https://www.bik.gov.tr/yerel-gazeteler/kocaeli/tumu/yeni-haber/
+325,KONYA,Akşehir Postası,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/aksehir-postasi/
+326,KONYA,Anadolu'da Bugün,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/anadolu-da-bugun/
+327,KONYA,Bbn Haber,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/bbn-haber/
+328,KONYA,Beyşehir'in Sesi,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/beysehir-in-sesi/
+329,KONYA,Cihanbeyli'nin Sesi,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/cihanbeyli-nin-sesi/
+330,KONYA,Ereğli Güneş,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/eregli-gunes/
+331,KONYA,Hakimiyet,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/hakimiyet/
+332,KONYA,Ilgın'ın Sesi,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/ilgin-in-sesi/
+333,KONYA,Konya Postası,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/konya-postasi/
+334,KONYA,Konya Yenigün,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/konya-yenigun/
+335,KONYA,Konya'nın Sesi,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/konya-nin-sesi/
+336,KONYA,Merhaba,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/merhaba/
+337,KONYA,Pervasız,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/pervasiz/
+338,KONYA,Pusula,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/pusula/
+339,KONYA,Yeni Ereğli,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/yeni-eregli/
+340,KONYA,Yeni Haber,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/yeni-haber/
+341,KONYA,Yeni Konya,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/yeni-konya/
+342,KONYA,Yeni Meram,https://www.bik.gov.tr/yerel-gazeteler/konya/tumu/yeni-meram/
+343,KÜTAHYA,Dumlupınar,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/dumlupinar/
+344,KÜTAHYA,Hisar,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/hisar/
+345,KÜTAHYA,Kırküç,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/kirkuc/
+346,KÜTAHYA,Kütahya Zafer,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/kutahya-zafer/
+347,KÜTAHYA,Medya Kütahya,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/medya-kutahya/
+348,KÜTAHYA,Simav'ın Sesi,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/simav-in-sesi/
+349,KÜTAHYA,Tavşanlının Sesi,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/tavsanlinin-sesi/
+350,KÜTAHYA,Yeni Gediz,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/yeni-gediz/
+351,KÜTAHYA,Yeni Kütahya,https://www.bik.gov.tr/yerel-gazeteler/kutahya/tumu/yeni-kutahya/
+352,MALATYA,Busabah,https://www.bik.gov.tr/yerel-gazeteler/malatya/tumu/busabah/
+353,MALATYA,Malatya Net Haber,https://www.bik.gov.tr/yerel-gazeteler/malatya/tumu/malatya-net-haber/
+354,MALATYA,Malatya Sonsöz,https://www.bik.gov.tr/yerel-gazeteler/malatya/tumu/malatya-sonsoz/
+355,MALATYA,Malatya Söz,https://www.bik.gov.tr/yerel-gazeteler/malatya/tumu/malatya-soz/
+356,MALATYA,Yeni Malatya,https://www.bik.gov.tr/yerel-gazeteler/malatya/tumu/yeni-malatya/
+357,MANİSA,Akhisar Altıeylül,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/akhisar-altieylul/
+358,MANİSA,Alaşehir 5 Eylül,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/alasehir-5-eylul/
+359,MANİSA,Gelişen Yeni Kırkağaç,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/gelisen-yeni-kirkagac/
+360,MANİSA,Manisa'da Denge,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/manisa-da-denge/
+361,MANİSA,Salihli Sektör,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/salihli-sektor/
+362,MANİSA,Soma Kurtuluş,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/soma-kurtulus/
+363,MANİSA,Turgutlu Manşet,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/turgutlu-manset/
+364,MANİSA,Yankı,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/yanki/
+365,MANİSA,Yeni Manisa,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/yeni-manisa/
+366,MANİSA,Yeni Turgutlu,https://www.bik.gov.tr/yerel-gazeteler/manisa/tumu/yeni-turgutlu/
+367,MARDİN,Mardin Haber,https://www.bik.gov.tr/yerel-gazeteler/mardin/tumu/mardin-haber/
+368,MARDİN,Mardin Life,https://www.bik.gov.tr/yerel-gazeteler/mardin/tumu/mardin-life/
+369,MERSİN,Akdeniz,https://www.bik.gov.tr/yerel-gazeteler/mersin/tumu/akdeniz/
+370,MERSİN,Akdeniz Postası,https://www.bik.gov.tr/yerel-gazeteler/mersin/tumu/akdeniz-postasi/
+371,MERSİN,Mersin,https://www.bik.gov.tr/yerel-gazeteler/mersin/tumu/mersin/
+372,MERSİN,Silifke,https://www.bik.gov.tr/yerel-gazeteler/mersin/tumu/silifke/
+373,MERSİN,Yeni Göksu,https://www.bik.gov.tr/yerel-gazeteler/mersin/tumu/yeni-goksu/
+374,MUĞLA,Batı Akdeniz,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/bati-akdeniz/
+375,MUĞLA,Çökertme,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/cokertme/
+376,MUĞLA,Dalaman,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/dalaman/
+377,MUĞLA,Devrim,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/devrim/
+378,MUĞLA,Ege,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/ege/
+379,MUĞLA,Ekspres Bodrum,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/ekspres-bodrum/
+380,MUĞLA,Gazete Zeybek,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/gazete-zeybek/
+381,MUĞLA,Hamle,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/hamle/
+382,MUĞLA,Manşet,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/manset/
+383,MUĞLA,Menteşe,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/mentese/
+384,MUĞLA,Muğla,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/mugla/
+385,MUĞLA,Muğla Haber,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/mugla-haber/
+386,MUĞLA,Muğla Yenigün,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/mugla-yenigun/
+387,MUĞLA,Önder,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/onder/
+388,MUĞLA,Yeni Sayfa,https://www.bik.gov.tr/yerel-gazeteler/mugla/tumu/yeni-sayfa/
+389,MUŞ,30 Nisan,https://www.bik.gov.tr/yerel-gazeteler/mus/tumu/30-nisan/
+390,MUŞ,Günaydın Muş,https://www.bik.gov.tr/yerel-gazeteler/mus/tumu/gunaydin-mus/
+391,MUŞ,Muş Altınova,https://www.bik.gov.tr/yerel-gazeteler/mus/tumu/mus-altinova/
+392,MUŞ,Muş Ekspres,https://www.bik.gov.tr/yerel-gazeteler/mus/tumu/mus-ekspres/
+393,MUŞ,Muş İl,https://www.bik.gov.tr/yerel-gazeteler/mus/tumu/mus-il/
+394,MUŞ,Muş Manşet,https://www.bik.gov.tr/yerel-gazeteler/mus/tumu/mus-manset/
+395,MUŞ,Muş Ovası,https://www.bik.gov.tr/yerel-gazeteler/mus/tumu/mus-ovasi/
+396,MUŞ,Yeni Muş'un Sesi,https://www.bik.gov.tr/yerel-gazeteler/mus/tumu/yeni-mus-un-sesi/
+397,NEVŞEHİR,Can Ajans,https://www.bik.gov.tr/yerel-gazeteler/nevsehir/tumu/can-ajans/
+398,NEVŞEHİR,Kapadokya Muşkara Haber,https://www.bik.gov.tr/yerel-gazeteler/nevsehir/tumu/kapadokya-muskara-haber/
+399,NEVŞEHİR,Nevşehir Kent Haber,https://www.bik.gov.tr/yerel-gazeteler/nevsehir/tumu/nevsehir-kent-haber/
+400,NİĞDE,Borun Sesi,https://www.bik.gov.tr/yerel-gazeteler/nigde/tumu/borun-sesi/
+401,NİĞDE,Dünden Bugüne Gündem,https://www.bik.gov.tr/yerel-gazeteler/nigde/tumu/dunden-bugune-gundem/
+402,NİĞDE,Hamle,https://www.bik.gov.tr/yerel-gazeteler/nigde/tumu/hamle/
+403,NİĞDE,Niğde Anadolu Haber,https://www.bik.gov.tr/yerel-gazeteler/nigde/tumu/nigde-anadolu-haber/
+404,NİĞDE,Niğde Günaydın,https://www.bik.gov.tr/yerel-gazeteler/nigde/tumu/nigde-gunaydin/
+405,ORDU,Fatsa,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/fatsa/
+406,ORDU,Ordu Afiş,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-afis/
+407,ORDU,Ordu Hayat,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-hayat/
+408,ORDU,Ordu Hürses,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-hurses/
+409,ORDU,Ordu Olay,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-olay/
+410,ORDU,Ordu Tribün,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-tribun/
+411,ORDU,Ordu Vizyon,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-vizyon/
+412,ORDU,Ordu Yeni Dönem,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-yeni-donem/
+413,ORDU,Ordu Yeni Haber,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-yeni-haber/
+414,ORDU,Ordu Yorum,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/ordu-yorum/
+415,ORDU,Ünye Kent,https://www.bik.gov.tr/yerel-gazeteler/ordu/tumu/unye-kent/
+416,OSMANİYE,Aydın Osmaniye,https://www.bik.gov.tr/yerel-gazeteler/osmaniye/tumu/aydin-osmaniye/
+417,OSMANİYE,Bahçenin Sesi,https://www.bik.gov.tr/yerel-gazeteler/osmaniye/tumu/bahcenin-sesi/
+418,OSMANİYE,Kadirli Postası,https://www.bik.gov.tr/yerel-gazeteler/osmaniye/tumu/kadirli-postasi/
+419,OSMANİYE,Kınık,https://www.bik.gov.tr/yerel-gazeteler/osmaniye/tumu/kinik/
+420,OSMANİYE,Olay,https://www.bik.gov.tr/yerel-gazeteler/osmaniye/tumu/olay/
+421,OSMANİYE,Sabır,https://www.bik.gov.tr/yerel-gazeteler/osmaniye/tumu/sabir/
+422,OSMANİYE,Sıla,https://www.bik.gov.tr/yerel-gazeteler/osmaniye/tumu/sila/
+423,RİZE,53 Haber,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/53-haber/
+424,RİZE,Güneş,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/gunes/
+425,RİZE,Haber Karadeniz,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/haber-karadeniz/
+426,RİZE,Karadeniz Gündem,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/karadeniz-gundem/
+427,RİZE,Karadeniz Vira Haber,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/karadeniz-vira-haber/
+428,RİZE,Rize Gündem,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/rize-gundem/
+429,RİZE,Rize Olay,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/rize-olay/
+430,RİZE,Tek Bayrak,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/tek-bayrak/
+431,RİZE,Yeni Gündoğdu,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/yeni-gundogdu/
+432,RİZE,Zümrüt Rize,https://www.bik.gov.tr/yerel-gazeteler/rize/tumu/zumrut-rize/
+433,SAKARYA,Adapazarı Akşam Haberleri,https://www.bik.gov.tr/yerel-gazeteler/sakarya/tumu/adapazari-aksam-haberleri/
+434,SAKARYA,Adapostası,https://www.bik.gov.tr/yerel-gazeteler/sakarya/tumu/adapostasi/
+435,SAKARYA,Bizim Sakarya,https://www.bik.gov.tr/yerel-gazeteler/sakarya/tumu/bizim-sakarya/
+436,SAKARYA,Sakarya Yenigün,https://www.bik.gov.tr/yerel-gazeteler/sakarya/tumu/sakarya-yenigun/
+437,SAKARYA,Sakarya Yenihaber,https://www.bik.gov.tr/yerel-gazeteler/sakarya/tumu/sakarya-yenihaber/
+438,SAKARYA,Sakaryahalk,https://www.bik.gov.tr/yerel-gazeteler/sakarya/tumu/sakaryahalk/
+439,SAKARYA,Yeni Sakarya,https://www.bik.gov.tr/yerel-gazeteler/sakarya/tumu/yeni-sakarya/
+440,SAMSUN,55 Yenigün,https://www.bik.gov.tr/yerel-gazeteler/samsun/tumu/55-yenigun/
+441,SAMSUN,Altınova,https://www.bik.gov.tr/yerel-gazeteler/samsun/tumu/altinova/
+442,SAMSUN,Gazete Arena,https://www.bik.gov.tr/yerel-gazeteler/samsun/tumu/gazete-arena/
+443,SAMSUN,Gazete Gerçek,https://www.bik.gov.tr/yerel-gazeteler/samsun/tumu/gazete-gercek/
+444,SAMSUN,Haberde Denge,https://www.bik.gov.tr/yerel-gazeteler/samsun/tumu/haberde-denge/
+445,SAMSUN,Hedef Halk,https://www.bik.gov.tr/yerel-gazeteler/samsun/tumu/hedef-halk/
+446,SAMSUN,Kızılırmak,https://www.bik.gov.tr/yerel-gazeteler/samsun/tumu/kizilirmak/
+447,SAMSUN,Samsun,https://www.bik.gov.tr/yerel-gazeteler/samsun/tumu/samsun/
+448,SİİRT,Siirt,https://www.bik.gov.tr/yerel-gazeteler/siirt/tumu/siirt/
+449,SİİRT,Siirt’te Son Söz,https://www.bik.gov.tr/yerel-gazeteler/siirt/tumu/siirt-te-son-soz/
+450,SİNOP,Bizim Karadeniz,https://www.bik.gov.tr/yerel-gazeteler/sinop/tumu/bizim-karadeniz/
+451,SİNOP,Boyabat Sesi,https://www.bik.gov.tr/yerel-gazeteler/sinop/tumu/boyabat-sesi/
+452,SİNOP,Flaş Haber,https://www.bik.gov.tr/yerel-gazeteler/sinop/tumu/flas-haber/
+453,SİNOP,Haber 57,https://www.bik.gov.tr/yerel-gazeteler/sinop/tumu/haber-57/
+454,SİNOP,Şehir,https://www.bik.gov.tr/yerel-gazeteler/sinop/tumu/sehir/
+455,SİNOP,Vitrin Haber,https://www.bik.gov.tr/yerel-gazeteler/sinop/tumu/vitrin-haber/
+456,SİVAS,Hadiselerle Hakikat,https://www.bik.gov.tr/yerel-gazeteler/sivas/tumu/hadiselerle-hakikat/
+457,SİVAS,Sivas İrade,https://www.bik.gov.tr/yerel-gazeteler/sivas/tumu/sivas-irade/
+458,ŞANLIURFA,Gap Gündemi,https://www.bik.gov.tr/yerel-gazeteler/sanliurfa/tumu/gap-gundemi/
+459,ŞANLIURFA,Harran Ovası,https://www.bik.gov.tr/yerel-gazeteler/sanliurfa/tumu/harran-ovasi/
+460,ŞANLIURFA,İrfan,https://www.bik.gov.tr/yerel-gazeteler/sanliurfa/tumu/irfan/
+461,ŞANLIURFA,Siverek Hedef,https://www.bik.gov.tr/yerel-gazeteler/sanliurfa/tumu/siverek-hedef/
+462,ŞANLIURFA,Urfa Değişim,https://www.bik.gov.tr/yerel-gazeteler/sanliurfa/tumu/urfa-degisim/
+463,ŞIRNAK,Cizrem,https://www.bik.gov.tr/yerel-gazeteler/sirnak/tumu/cizrem/
+464,ŞIRNAK,Silopi,https://www.bik.gov.tr/yerel-gazeteler/sirnak/tumu/silopi/
+465,ŞIRNAK,Şırnak Haber,https://www.bik.gov.tr/yerel-gazeteler/sirnak/tumu/sirnak-haber/
+466,ŞIRNAK,Şırnak Olay Gazetesi,https://www.bik.gov.tr/yerel-gazeteler/sirnak/tumu/sirnak-olay-gazetesi/
+467,TEKİRDAĞ,Avrupa Yakası,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/avrupa-yakasi/
+468,TEKİRDAĞ,Çerkezköy Bakış,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/cerkezkoy-bakis/
+469,TEKİRDAĞ,Çerkezköy Haber,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/cerkezkoy-haber/
+470,TEKİRDAĞ,Devrim,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/devrim/
+471,TEKİRDAĞ,Haber Trak,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/haber-trak/
+472,TEKİRDAĞ,Hayrabolu Sesi,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/hayrabolu-sesi/
+473,TEKİRDAĞ,Marmara Haber,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/marmara-haber/
+474,TEKİRDAĞ,Saray Gözlem,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/saray-gozlem/
+475,TEKİRDAĞ,Tekirdağ Yeni İnan,https://www.bik.gov.tr/yerel-gazeteler/tekirdag/tumu/tekirdag-yeni-inan/
+476,TOKAT,Tokat Güneş,https://www.bik.gov.tr/yerel-gazeteler/tokat/tumu/tokat-gunes/
+477,TOKAT,Tokat Haber,https://www.bik.gov.tr/yerel-gazeteler/tokat/tumu/tokat-haber/
+478,TRABZON,Karadeniz,https://www.bik.gov.tr/yerel-gazeteler/trabzon/tumu/karadeniz/
+479,TRABZON,Karadeniz'de Son Nokta,https://www.bik.gov.tr/yerel-gazeteler/trabzon/tumu/karadeniz-de-son-nokta/
+480,TRABZON,Karadeniz'den Günebakış,https://www.bik.gov.tr/yerel-gazeteler/trabzon/tumu/karadeniz-den-gunebakis/
+481,TRABZON,Kuzey Anadolu,https://www.bik.gov.tr/yerel-gazeteler/trabzon/tumu/kuzey-anadolu/
+482,TRABZON,Kuzey Ekspres,https://www.bik.gov.tr/yerel-gazeteler/trabzon/tumu/kuzey-ekspres/
+483,TRABZON,Taka,https://www.bik.gov.tr/yerel-gazeteler/trabzon/tumu/taka/
+484,TUNCELİ,Dersim Haber,https://www.bik.gov.tr/yerel-gazeteler/tunceli/tumu/dersim-haber/
+485,TUNCELİ,Özgür Dersim,https://www.bik.gov.tr/yerel-gazeteler/tunceli/tumu/ozgur-dersim/
+486,TUNCELİ,Tunceli Emek,https://www.bik.gov.tr/yerel-gazeteler/tunceli/tumu/tunceli-emek/
+487,UŞAK,Eşme’nin Sesi,https://www.bik.gov.tr/yerel-gazeteler/usak/tumu/esme-nin-sesi/
+488,UŞAK,Uşak Haber,https://www.bik.gov.tr/yerel-gazeteler/usak/tumu/usak-haber/
+489,UŞAK,Uşak İlk Haber,https://www.bik.gov.tr/yerel-gazeteler/usak/tumu/usak-ilk-haber/
+490,VAN,Bölge,https://www.bik.gov.tr/yerel-gazeteler/van/tumu/bolge/
+491,VAN,Erciş,https://www.bik.gov.tr/yerel-gazeteler/van/tumu/ercis/
+492,VAN,Muradiye,https://www.bik.gov.tr/yerel-gazeteler/van/tumu/muradiye/
+493,VAN,Şehrivan,https://www.bik.gov.tr/yerel-gazeteler/van/tumu/sehrivan/
+494,YALOVA,Haberci,https://www.bik.gov.tr/yerel-gazeteler/yalova/tumu/haberci/
+495,YALOVA,Yalova Hayat,https://www.bik.gov.tr/yerel-gazeteler/yalova/tumu/yalova-hayat/
+496,YOZGAT,Boğazlıyan Haber,https://www.bik.gov.tr/yerel-gazeteler/yozgat/tumu/bogazliyan-haber/
+497,YOZGAT,Doğan Güneş,https://www.bik.gov.tr/yerel-gazeteler/yozgat/tumu/dogan-gunes/
+498,YOZGAT,Merhaba Yozgat,https://www.bik.gov.tr/yerel-gazeteler/yozgat/tumu/merhaba-yozgat/
+499,YOZGAT,Selam,https://www.bik.gov.tr/yerel-gazeteler/yozgat/tumu/selam/
+500,YOZGAT,Yerköy,https://www.bik.gov.tr/yerel-gazeteler/yozgat/tumu/yerkoy/
+501,YOZGAT,Yozgat Çamlık,https://www.bik.gov.tr/yerel-gazeteler/yozgat/tumu/yozgat-camlik/
+502,ZONGULDAK,Halkın Sesi,https://www.bik.gov.tr/yerel-gazeteler/zonguldak/tumu/halkin-sesi/
+503,ZONGULDAK,İnanış,https://www.bik.gov.tr/yerel-gazeteler/zonguldak/tumu/inanis/
+504,ZONGULDAK,Pusula,https://www.bik.gov.tr/yerel-gazeteler/zonguldak/tumu/pusula/
+505,ZONGULDAK,Şafak,https://www.bik.gov.tr/yerel-gazeteler/zonguldak/tumu/safak/
+506,ZONGULDAK,Yeni Adım,https://www.bik.gov.tr/yerel-gazeteler/zonguldak/tumu/yeni-adim/
